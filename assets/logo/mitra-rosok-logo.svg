@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-label="Logo MITRA ROSOK Banyuwangi">
+  <circle cx="50" cy="50" r="48" fill="#8B0000"/>
+  <circle cx="50" cy="50" r="48" fill="none" stroke="#00AEEF" stroke-width="4"/>
+  <text x="50" y="64" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="42" fill="#FFFFFF">MS</text>
+</svg>
